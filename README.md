@@ -11,7 +11,7 @@
 
 <p align="center">
 <a href="https://github.com/edulyuji">
-  <img height="175em"  width="378em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edulyuji&layout=compact&theme=radical"  /> <img height="175em"  width="350em" src="https://github-readme-stats.vercel.app/api?username=edulyuji&show_icons=true&theme=radical" />
+  <img height="175em"  width="378em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edulyuji&layout=compact&theme=radical"  /> &nbsp; <img height="175em"  width="350em" src="https://github-readme-stats.vercel.app/api?username=edulyuji&show_icons=true&theme=radical" />
   </a>
 </p
 
